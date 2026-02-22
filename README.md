@@ -1,5 +1,13 @@
 # Hi there 👋, I'm Pranesh Manickam!
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;4%2B+Years+Experience;React+%7C+Node+%7C+MySQL;Always+Learning+New+Things" />
+</p>
+
+---
+
 🌟 A passionate MERN Stack Developer with 3 years and 10 months of experience in building web applications.  
 🚀 I love solving real-world problems using technology and exploring the latest web development trends.
 
@@ -9,6 +17,14 @@
 - 📧 [Email](mailto:praneshappu2001@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pranesh-manickam/)
 - 🌐 [Portfolio](https://stalwart-maamoul-2e8c93.netlify.app/)
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pranesh-manickam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
