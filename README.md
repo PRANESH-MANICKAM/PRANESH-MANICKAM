@@ -28,8 +28,20 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=pranesh-manickam&theme=light&column=4&margin-w=15&margin-h=15)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranesh-manickam&show_icons=true&theme=github&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=pranesh-manickam&theme=github&cache_seconds=1800" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranesh-manickam&theme=github-light" />
+</p>
 
 ---
 
