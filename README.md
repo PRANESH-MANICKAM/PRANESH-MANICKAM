@@ -12,12 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Gopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranesh-manickam&show_icons=true&theme=light)
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranesh-manickam&theme=light)](https://git.io/streak-stats)
-
----
-
 ## 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pranesh-manickam&theme=light&column=4&margin-w=15&margin-h=15)
 
@@ -66,11 +60,6 @@
 - 🎮 Gamer by night, developer by day, coffee enthusiast 24/7.  
 - 🚀 My code works 99% of the time… the other 1%? It’s a *feature*! 😉  
 - 🛠️ I firmly believe in the philosophy: **“Why do it manually when you can script it?”**  
-
----
-
-## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranesh-manickam&layout=compact&theme=light)
 
 ---
 
